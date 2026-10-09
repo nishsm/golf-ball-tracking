@@ -51,4 +51,4 @@ Thanks to Oliver for the idea of splitting the problem into stationary and movin
 
 Python, PyTorch, Ultralytics YOLO11, SAM 2, OpenCV.
 
-See also: [golf-club-tracking](https://github.com/nishsm/golf-club-tracking), the club shaft and head tracker from the same project.
+See also: [SwingTrace](https://github.com/nishsm/swingtrace), the club tracker from the same project.
